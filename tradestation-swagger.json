@@ -10082,8 +10082,7 @@
           "GTDDate": {
             "description": "Date that Order is valid through. Input Format: MM/DD/YYYY\nRequired for orders with Duration = GTD.\n",
             "maxLength": 10,
-            "type": "string",
-            "format": "mmddyyyy"
+            "type": "string"
           },
           "LimitPrice": {
             "type": "string"
