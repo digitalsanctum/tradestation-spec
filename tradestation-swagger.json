@@ -20,11 +20,6 @@
       "url": "https://api.tradestation.com"
     }
   ],
-  "security": [
-    {
-      "Bearer-Token": []
-    }
-  ],
   "tags": [
     {
       "name": "marketdata",
